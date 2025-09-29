@@ -1,0 +1,38 @@
+# Go build artifacts
+/bin/
+/pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go modules
+/go.sum
+/go.mod
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE/editor backups
+*.swp
+*.swo
+*~
+
+# Generated protobuf files
+**/*.pb.go
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage files
+*.out

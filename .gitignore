@@ -7,10 +7,6 @@
 *.so
 *.dylib
 
-# Go modules
-/go.sum
-/go.mod
-
 # VS Code
 .vscode/
 
